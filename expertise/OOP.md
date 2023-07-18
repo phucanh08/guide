@@ -1,4 +1,9 @@
 [<- Trở về](../README.md)
+
+<br/>
+
+![image](https://media.licdn.com/dms/image/D5612AQFhm9j4S5bW-Q/article-cover_image-shrink_720_1280/0/1675079412122?e=2147483647&v=beta&t=vHSoSC5JTQSzquBvyY2zaaN33RY2QgiLcax1sZgjMEU)
+
 ## Mục lục
 - [Bài toán](#bài-toán)
 - [OOP là gì?](#oop-là-gì)
