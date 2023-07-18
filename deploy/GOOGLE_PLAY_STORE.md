@@ -4,6 +4,8 @@
   <br/>
   <img alt="logo" height="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Google_Play_logo-2022.png"/>
   <h1>Google Play Store</h1>
+  <br/>
+  <br/>
 </div>
 
 
@@ -16,6 +18,7 @@
 - [Bước 5: Hoàn thành content rating](#bước-5-hoàn-thành-content-rating)
 - [Bước 6: Đăng ký giá ứng dụng](#bước-6-đăng-ký-giá-ứng-dụng)
 
+<br/>
 
 ## Những thông tin cần chuẩn bị
 
@@ -35,7 +38,7 @@ thay đổi để phù hợp và tiếp tục chờ đợi các vòng tiếp the
   trợ ([xem thêm nội dung xem trước](https://support.google.com/googleplay/android-developer/answer/9866151))
 * Privacy policy url: Có thể dùng [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/) để tạo.
 
-## Bước 1: Đăng ký tài khoản nhà phát triển ứng dụng
+## Bước 1: Đăng ký tài khoản nhà phát triển ứng dụng {#step1}
 
 Muốn đăng một ứng dụng lên Google Play, bắt buộc bạn phải có tài khoản Google Developer.
 

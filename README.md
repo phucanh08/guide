@@ -24,3 +24,10 @@
 ## Hướng dẫn Deploy app
 - [Google Play Console](deploy/GOOGLE_PLAY_STORE.md)
 - [App Store](deploy/APP_STORE.md)
+
+## Kiến thức lý thuyết
+- [OOP](expertise/OOP.md)
+- [SOLID](expertise/SOLID.md)
+- [Design Patten](expertise/design_patten/DESIGN_PATTEN.md)
+- [Clean Architecture](expertise/CLEAN_ARCHITECTURE.md)
+- [Event Loop](https://www.linkedin.com/pulse/unraveling-javascript-event-loop-comprehensive-guide-michael-baker/)
