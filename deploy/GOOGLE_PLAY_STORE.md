@@ -16,7 +16,6 @@
 - [Bước 5: Hoàn thành content rating](#bước-5-hoàn-thành-content-rating)
 - [Bước 6: Đăng ký giá ứng dụng](#bước-6-đăng-ký-giá-ứng-dụng)
 
-# CH Play
 
 ## Những thông tin cần chuẩn bị
 
@@ -25,23 +24,22 @@ lên TestFlight. Các tester của Apple sẽ test ứng dụng để đánh gi�
 lên App Store. Nếu được Approve, ứng dụng của bạn sẽ sẵn sàng có mặt trên AS. Ngược lại bạn phải
 thay đổi để phù hợp và tiếp tục chờ đợi các vòng tiếp theo. Thông tin cần chuẩn bị:
 
+**Lưu ý:** Đọc kỹ [nội dung xem trước](https://support.google.com/googleplay/android-developer/answer/9866151) của google.
 * Tên ứng dụng
 * Nội dung giới thiệu
-* App Icon (1024 x 1024)
+* App Icon
+* Đoạn mô tả ngắn (short description)
+* Đoạn mô tả chi tiết (full description)
+* App Category: Phân loại app của mình bằng việc tìm hiểu thông tin ở [Google Play categories](https://support.google.com/googleplay/android-developer/answer/113475).
 * Ảnh chụp màn hình ứng với tấc cả thiết bị hỗ
-  trợ ([thông tin về kích thước màn hình](https://help.apple.com/app-store-connect/#/devd274dd925))
+  trợ ([xem thêm nội dung xem trước](https://support.google.com/googleplay/android-developer/answer/9866151))
+* Privacy policy url: Có thể dùng [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/) để tạo.
 
 ## Bước 1: Đăng ký tài khoản nhà phát triển ứng dụng
 
 Muốn đăng một ứng dụng lên Google Play, bắt buộc bạn phải có tài khoản Google Developer.
 
-Đầu tiên, truy cập trang đăng ký [TẠI ĐÂY](https://play.google.com/apps/publish/signup/) và tiến
-hành đăng nhập vào google bằng địa chỉ email như bình thường. Sau đó click vào ô “Developer
-Agreement” để được điều hướng về màn hình thanh toán.
-
-Tại đây, chọn hình thức thanh toán bằng thẻ VISA/ MasterCard, sau khi hoàn tất thanh toán thì điền
-đầy đủ thông tin theo yêu cầu, gồm developer name, email address, website, phone number.
-Để hoàn tất bước đăng ký, nhấn “COMPLETE REGISTRATION.”
+Nếu chưa có thì đăng ký [tại đây](https://play.google.com/apps/publish/signup/).
 
 ## Bước 2: Tạo ứng dụng
 
