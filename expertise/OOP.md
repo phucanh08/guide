@@ -14,14 +14,13 @@
 <br/>
 
 ## Bài toán
-Đối với các dự án có ít nhất một trong những đặc điểm dưới đây: 
+Đối với các chương trình có ít nhất một trong những đặc điểm dưới đây thì ta nên sử dụng OOP: 
 
 - Lớn và phức tạp.
 - Sẽ được tái sử dụng trong nhiều dự án khác nhau.
 - Cần có thể mở rộng dễ dàng.
 - Cần phải trừu tượng hóa các chi tiết triển khai.
 
-Ta nên sử dụng OOP.
 ## OOP là gì?
 OOP (viết tắt của Object Oriented Programming) – lập trình hướng đối tượng là một phương pháp lập trình dựa trên khái niệm về lớp và đối tượng. OOP tập trung vào các đối tượng thao tác hơn là logic để thao tác chúng.
 
