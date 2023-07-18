@@ -7,7 +7,7 @@
 </div>
 
 
-# Mục lục
+## Mục lục
 - [Những thông tin cần chuẩn bị](#những-thông-tin-cần-chuẩn-bị)
 - [Bước 1: Đăng kí tham gia Apple Developer](#bước-1-đăng-kí-tham-gia-apple-developer)
 - [Bước 2: Tạo Distribution Certificate](#bước-2-tạo-distribution-certificate)
