@@ -10,6 +10,8 @@
   <br/>
 </div>
 
+## Architecture
+- [Architecture](architecture/ARCHITECTURE.md)
 
 ## Conventions
 - [Coding Convention](conventions/CODING.md)
