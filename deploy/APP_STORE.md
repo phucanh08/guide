@@ -65,7 +65,7 @@ Nếu bạn đã đăng ký với tư cách là một công ty, bạn sẽ có t
 
 4. Trong Quyền truy cập của người dùng, hãy chọn Quyền truy cập có giới hạn hoặc Quyền truy cập đầy đủ. Nếu bạn chọn Quyền truy cập có giới hạn, hãy chọn những người dùng mà bạn muốn truy cập vào ứng dụng này.
 
-        **Truy cập Báo cáo**
+    **Truy cập Báo cáo**
 
         Vai trò Truy cập vào Báo cáo là một vai trò bổ sung chỉ có thể được thêm cho người dùng có vai trò Người quản lý ứng dụng, Nhà phát triển, Tiếp thị hoặc Bán hàng. Những người dùng này có thể tải xuống các báo cáo được liên kết với vai trò của họ. Nếu vai trò Truy cập Báo cáo được thêm vào, thì người dùng có quyền truy cập vào tất cả các ứng dụng. Theo mặc định, người dùng Quản trị viên và Tài chính có vai trò Truy cập vào Báo cáo.
 
