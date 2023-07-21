@@ -1,4 +1,4 @@
-[<- Trở về](../README.md)
+[<- Trở về](../README.md#hướng-dẫn-deploy-app)
 <div align="center">
   <br/>
   <br/>
@@ -13,7 +13,11 @@
 - [Bước 1: Đăng kí tham gia Apple Developer](#bước-1-đăng-kí-tham-gia-apple-developer)
 - [Bước 2: Tạo Bundle Id](#bước-2-tạo-bundle-id)
 - [Bước 3: Tạo App trên App Store Connect](#bước-3-tạo-app-trên-app-store-connect)
-- [Bước 4: Archive App trên Xcode](#bước-4-archive-app-trên-xcode)
+- [Bước 4: Phân phối ứng dụng của bạn để thử nghiệm và phát hành beta](#bước-4-phân-phối-ứng-dụng-của-bạn-để-thử-nghiệm-và-phát-hành-beta)
+  - [Tổng quan](#tổng-quan)
+  - [Tạo kho lưu trữ ứng dụng của bạn](#tạo-kho-lưu-trữ-ứng-dụng-của-bạn)
+  - [Tạo phân phối tùy chỉnh](#tạo-phân-phối-tùy-chỉnh)
+  - [Phân phối phiên bản beta](#phân-phối-phiên-bản-beta)
 
 ## Những thông tin cần chuẩn bị
 
@@ -70,14 +74,14 @@ Nhấp vào Tạo và tìm thông báo cho biết thông tin bị thiếu.
 
 Sau khi bạn tạo bản ghi Kết nối App Store cho một ứng dụng, ứng dụng đó sẽ xuất hiện trong Ứng dụng của tôi và [trạng thái ứng dụng](https://developer.apple.com/help/app-store-connect/reference/app-and-submission-statuses) là Chuẩn bị gửi. Bạn có thể chọn ứng dụng trên trang này để [xem và chỉnh sửa thông tin ứng dụng](https://developer.apple.com/help/app-store-connect/create-an-app-record/view-and-edit-app-information).
 
-## Bước 4: Archive App trên Xcode
+## Bước 4: Phân phối ứng dụng của bạn để thử nghiệm và phát hành beta
 
 ### Tổng quan
 Sau khi bạn kiểm tra kỹ lưỡng ứng dụng của mình trong Xcode, hãy phân phối ứng dụng đó cho những người thử nghiệm bản beta hoặc phát hành ứng dụng đó cho người dùng để chạy trên thiết bị cá nhân của họ. Chọn phương thức phân phối dựa trên nền tảng và giai đoạn phát triển của ứng dụng cũng như việc bạn có tham gia Chương trình dành cho nhà phát triển của Apple hay không. Trước khi bạn phát hành ứng dụng của mình cho người dùng, hãy phân phối bản dựng cuối cùng của bạn bằng một trong các phương pháp thử nghiệm beta.
 
 Hãy đọc kỹ [Chuẩn bị ứng dụng của bạn để phân phối](https://developer.apple.com/documentation/xcode/preparing-your-app-for-distribution) để hoàn tất cấu hình dự án của bạn, trước khi thực hiện tiếp các bước tiếp theo.
 
-### Create an archive of your app 
+### Tạo kho lưu trữ ứng dụng của bạn
 [tham khảo](https://developer.apple.com/documentation/xcode/distributing-your-app-for-beta-testing-and-releases#Create-an-archive-of-your-app)
 
 Để sử dụng bất kỳ phương thức phân phối nào, trước tiên hãy tạo một kho lưu trữ ứng dụng của bạn. Kho lưu trữ là bản dựng ứng dụng của bạn, bao gồm thông tin gỡ lỗi, mà Xcode lưu trữ trong một gói. Xcode đóng gói lại nội dung của kho lưu trữ dựa trên cấu hình phân phối mà bạn chọn cho bản phân phối của mình.

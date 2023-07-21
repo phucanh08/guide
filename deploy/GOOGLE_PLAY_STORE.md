@@ -1,4 +1,4 @@
-[<- Trở về](../README.md)
+[<- Trở về](../README.md#hướng-dẫn-deploy-app)
 <div align="center">
   <br/>
   <br/>
