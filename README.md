@@ -26,6 +26,7 @@
 ## Hướng dẫn Deploy app
 - [Google Play Console](deploy/GOOGLE_PLAY_STORE.md)
 - [App Store](deploy/APP_STORE.md)
+- [Những lưu ý khi deploy app](deploy/NOTE_WHEN_DEPLOYING_APP.md)
 
 ## Kiến thức lý thuyết
 - [OOP](expertise/OOP.md)
