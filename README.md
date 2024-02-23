@@ -36,4 +36,4 @@
 - [Event Loop](https://www.linkedin.com/pulse/unraveling-javascript-event-loop-comprehensive-guide-michael-baker/)
 
 ## Map Tiles
-- [Google Map tiles](map/MAP_TILES.md)
+- [Google Map tiles](map/GOOGLE_MAP_TILES.md)
