@@ -6,7 +6,7 @@
 </div>
 
 ### Url
-http://{[subdomains](#subdomains)}.google.com/vt/lyrs={[mapTypes](#map-types)},{[layer](#map-layer-có-thể-chọn-nhiều-layer)}&hl={[lang](#map-language)}&apistyle={[apistyle](#apistyle-tạo-style-ở-đây-tham-khảo-gen-json-sang-string-ở-đây)}&x={x}&y={y}&z={z}
+http://{[subdomains](#subdomains)}.google.com/vt/lyrs={[mapTypes](#map-types)},{[layer](#map-layer-có-thể-chọn-nhiều-layer)}&hl={[lang](#map-language)}&apistyle={[apistyle](#a)}&x={x}&y={y}&z={z}
 
 ### Subdomains: 
     mt0, mt1, mt2, mt3, mts0, mts1, mts2, mts3
