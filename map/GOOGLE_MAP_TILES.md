@@ -25,7 +25,7 @@ http://{[subdomains](#subdomains)}.google.com/vt/lyrs={[mapTypes](#map-types)},{
     - transit = Transit layer
     - bike = Bike layer
 
-### Map Language
+### Map Language ([IETF subtags](https://en.wikipedia.org/wiki/IETF_language_tag#List_of_common_primary_language_subtags))
     - vi = Tiếng Việt
     - en = English
     - ...
