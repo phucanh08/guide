@@ -37,3 +37,6 @@
 
 ## Map Tiles
 - [Google Map tiles](map/GOOGLE_MAP_TILES.md)
+
+## Google Weather Icons
+- [V1](google_weather_icons/V1.md)
