@@ -3,4 +3,4 @@ adb shell am broadcast -a android.intent.action.systemui.internal --es status_ba
 
 
 adb shell am broadcast -a android.intent.action.systemui.internal --es navigation_bar dismiss
-adb shell am broadcast -a android.intent.action.systemui.internal --es navigation_bar
+adb shell am broadcast -a android.intent.action.systemui.internal --es navigation_bar show
